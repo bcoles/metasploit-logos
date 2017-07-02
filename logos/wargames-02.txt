@@ -1,0 +1,29 @@
+  %grnLOGON: Help Logon
+
+  HELP NOT AVAILABLE
+
+
+  LOGON: Help Games
+
+  'GAMES' REFERS TO MODELS, SIMULATIONS AND GAMES
+  WHICH HAVE TACTICAL AND STRATEGIC APPLICATIONS.
+
+  List of Games
+  FALKEN'S MAZE
+  BLACK JACK           .=======================.
+  GIN RUMMY           |                         |
+  HEARTS              |  %redSHALL WE PLAY A GAME ?%grn |
+  BRIDGE              |                         |
+  CHECKERS             '======================='
+  CHESS
+  POKER
+  FIGHTER COMBAT
+  GUERRILLA ENGAGEMENT
+  DESERT WARFARE
+  AIR-TO-GROUND ACTIONS
+  THEATERWIDE TACTICAL WARFARE
+  THEATERWIDE BIOTOXIC AND CHEMICAL WARFARE
+
+  GLOBAL THERMONUCLEAR WAR
+
+  LOGON: JOSHUA%clr

@@ -1,0 +1,13 @@
+
+%dblu   _______________                        %bld%yel|*\_/*|%clr%dyel________
+%dblu  |  ___________  |     %red.-.     .-.%clr      %dyel|%bld%yel|_/-\_|%clr%dyel______  |
+%dblu  | |           | |    %red.****. .****.%clr     %dyel| |           | |
+%dblu  | |   %clr%blu0   0   %dblu| |    %red.*****.*****.     %dyel| |   %clr%yel0   0   %dyel| |
+%dblu  | |     %clr%blu-     %dblu| |     %red.*********.      %dyel| |     %clr%yel-     %dyel| |
+%dblu  | |   %clr%blu\___/   %dblu| |      %red.*******.       %dyel| |   %clr%yel\___/   %dyel| |
+%dblu  | |___     ___| |       %red.*****.        %dyel| |___________| |
+%dblu  |_____%bld%blu|\_/|%clr%dblu_____|        %red.***.%clr         %dyel|_______________|
+%dblu    _|__%bld%blu|/ \|%clr%dblu_|_%bld%red.............%clr%red*%clr%bld%red..............%clr%dyel_|________|_
+%dblu   / ********** \                          %dyel/ ********** \
+%dblu /  ************  \                      %dyel/  ************  \
+%dblu--------------------                    %dyel-------------------
