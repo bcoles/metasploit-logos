@@ -10,6 +10,7 @@ To install: `mv logos/*.txt ~/.msf4/logos/`
 * [hack-the-planet-01](#hack-the-planet-01)
 * [hack-the-planet-02](#hack-the-planet-02)
 * [system-shock-01](#system-shock-01)
+* [system-shock-02](#system-shock-02)
 * [wargames-01](#wargames-01)
 * [wargames-02](#wargames-02)
 
@@ -62,6 +63,15 @@ To install: `mv logos/*.txt ~/.msf4/logos/`
 
 ![System Shock 1](https://raw.githubusercontent.com/bcoles/metasploit-logos/master/images/system-shock-01.png)
 
+* Text from [System Shock (1994)](https://en.wikipedia.org/wiki/System_Shock)
+
+---
+
+### system-shock-02
+
+![System Shock 2](https://raw.githubusercontent.com/bcoles/metasploit-logos/master/images/system-shock-02.png)
+
+* [Original](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSDMivqh5yX_5c6YY0MCEXgR3ajaUEeFgR-LwB3AGv1iN8b5xe9w)
 * Text from [System Shock (1994)](https://en.wikipedia.org/wiki/System_Shock)
 
 ---
