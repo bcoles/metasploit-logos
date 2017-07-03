@@ -1,0 +1,25 @@
+%clr%whi
+ _________________________________________________________
+|                                                         |
+|  %bld%yel> QUERY FOR CLEARANCE%clr                                  |
+|                                                         |
+|  %yel....%clr                                                   |
+|                                                         |
+|  %bld%redACCESS DENIED%clr                                          |
+|                                                         |
+|  %bld%yel> INITIATE BATTERING RAM%clr                               |
+|                                                         |
+|  %yel<A>NEV/HJS<KBA>(NET1=3V)MB1 -NK%clr                        |
+|  %yel(BEM)RAMJET/SYPHON -XP FUNCTIONS%clr                       |
+|  %yelTO SECONDRAY SYSTEMS {WATC} DEL SHA%clr                    |
+|  %yel--SOFTWARE OVERRIDE....%clr                                |
+|                                                         |
+|  %yel<P> PROGRAM - SYPHON/CIT%clr                               |
+|  %yel<C> MUTAGENIC RESARCH FILES/NES%clr                        |
+|  %yelTO-<B> SWITCH K*CODE/MEMORY ALPHA%clr                      |
+|  %yelNULL/NOID PROCESS0045%clr                                  |
+|                                                         |
+|  %yel....%clr                                                   |
+|                                                         |
+|  %bld%whiSECURITY SYSTEM DISABLED%clr                               |
+|_________________________________________________________|

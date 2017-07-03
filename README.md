@@ -9,6 +9,7 @@ To install: `mv logos/*.txt ~/.msf4/logos/`
 * [computer-love](#computer-love)
 * [hack-the-planet-01](#hack-the-planet-01)
 * [hack-the-planet-02](#hack-the-planet-02)
+* [system-shock-01](#system-shock-01)
 * [wargames-01](#wargames-01)
 * [wargames-02](#wargames-02)
 
@@ -18,7 +19,7 @@ To install: `mv logos/*.txt ~/.msf4/logos/`
 
 ![Aperture Science 1](https://raw.githubusercontent.com/bcoles/metasploit-logos/master/images/aperture-science-01.png)
 
-[Original](https://slowb.ro/static/apeture-sceience-logo-from-portal.txt)
+* [Original](https://slowb.ro/static/apeture-sceience-logo-from-portal.txt)
 * Original author [Valve Software](http://valvesoftware.com/)
 
 ---
@@ -27,7 +28,7 @@ To install: `mv logos/*.txt ~/.msf4/logos/`
 
 ![Aperture Science 2](https://raw.githubusercontent.com/bcoles/metasploit-logos/master/images/aperture-science-02.png)
 
-[Original](https://slowb.ro/static/apeture-sceience-logo-from-portal.txt)
+* [Original](https://slowb.ro/static/apeture-sceience-logo-from-portal.txt)
 * Original author [Valve Software](http://valvesoftware.com/)
 
 ---
@@ -54,6 +55,14 @@ To install: `mv logos/*.txt ~/.msf4/logos/`
 ![Hack the Planet 2](https://raw.githubusercontent.com/bcoles/metasploit-logos/master/images/hack-the-planet-02.png)
 
 * [Original](https://www.youtube.com/watch?v=zqvcfWQzxYg)
+
+---
+
+### system-shock-01
+
+![System Shock 1](https://raw.githubusercontent.com/bcoles/metasploit-logos/master/images/system-shock-01.png)
+
+* Text from [System Shock (1994)](https://en.wikipedia.org/wiki/System_Shock)
 
 ---
 
