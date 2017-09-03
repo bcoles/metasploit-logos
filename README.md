@@ -11,6 +11,7 @@ To install: `mv logos/*.txt ~/.msf4/logos/`
 * [hack-the-planet-02](#hack-the-planet-02)
 * [system-shock-01](#system-shock-01)
 * [system-shock-02](#system-shock-02)
+* [terminator-atm](#terminator-atm)
 * [wargames-01](#wargames-01)
 * [wargames-02](#wargames-02)
 
@@ -73,6 +74,15 @@ To install: `mv logos/*.txt ~/.msf4/logos/`
 
 * [Original](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSDMivqh5yX_5c6YY0MCEXgR3ajaUEeFgR-LwB3AGv1iN8b5xe9w)
 * Text from [System Shock (1994)](https://en.wikipedia.org/wiki/System_Shock)
+
+---
+
+### terminator-atm
+
+![Terminator ATM](https://raw.githubusercontent.com/bcoles/metasploit-logos/master/images/terminator-atm.png)
+
+* [Original](https://www.youtube.com/embed/3cfQKxUffqA?autoplay=1&auto_play=true)
+* Text from [Terminator 2 (1991)](http://www.imdb.com/title/tt0103064/)
 
 ---
 
