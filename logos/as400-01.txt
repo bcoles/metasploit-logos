@@ -1,0 +1,23 @@
+ %bld%bluMAIN%clr                            %bld%whii5/OS Main Menu%clr
+                                                             %grnSystem:   OSYS1%clr
+ %bld%bluSelect one of the following:%clr
+%grn
+      1. User tasks
+      2. Office tasks
+      3. General system tasks
+      4. File, libraries, and folders
+      5. Programming
+      6. Communications
+      7. Define or change the system
+      8. Problem handling
+      9. Display a menu
+     10. Information Assistant options
+     11. iSeries Access tasks
+
+     90. Sign off
+
+ Selection or command:
+ %grn===> %bld_%clr%grn_________________________________________________________________________%clr
+%grn_______________________________________________________________________________%clr
+ %bld%bluF3=Exit   F4=Prompt   F9=Retrieve   F12=Cancel   F13=Information Assistant
+ F23=Set initial menu%clr

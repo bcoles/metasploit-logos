@@ -6,6 +6,7 @@ To install: `mv logos/*.txt ~/.msf4/logos/`
 
 * [aperture-science-01](#aperture-science-01)
 * [aperture-science-02](#aperture-science-02)
+* [as400-01](#as400-01)
 * [computer-love](#computer-love)
 * [doom-01](#doom-01)
 * [hack-the-planet-01](#hack-the-planet-01)
@@ -36,6 +37,14 @@ To install: `mv logos/*.txt ~/.msf4/logos/`
 
 * [Original](https://slowb.ro/static/apeture-sceience-logo-from-portal.txt)
 * Original author [Valve Software](http://valvesoftware.com/)
+
+---
+
+### as400-01
+
+![AS400 01](https://raw.githubusercontent.com/bcoles/metasploit-logos/master/images/as400-01.png)
+
+* Text from [IBM AS/400 interface](https://i2.wp.com/as400i.com/wp-content/uploads/2013/03/main-menu.png)
 
 ---
 
