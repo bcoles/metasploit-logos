@@ -1,0 +1,16 @@
+%clr
+  %bld%grn> LOGON: JOSHUA%clr
+
+  %grnWelcome. Shall we play a game?%clr
+
+  %bld%grn> GLOBAL THERMONUCLEAR WAR%clr
+
+  %grnWHICH SIDE DO YOU WANT?
+
+    1.    UNITED STATES
+    2.    SOVIET UNION
+
+  PLEASE CHOOSE ONE:  %bld2%clr
+
+          %bld%grnAWAITING FIRST STRIKE COMMAND
+          -----------------------------%clr

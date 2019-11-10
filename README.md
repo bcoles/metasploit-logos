@@ -15,6 +15,8 @@ To install: `mv logos/*.txt ~/.msf4/logos/`
 * [terminator-atm](#terminator-atm)
 * [wargames-01](#wargames-01)
 * [wargames-02](#wargames-02)
+* [wargames-03](#wargames-03)
+* [wargames-04](#wargames-04)
 
 ---
 
@@ -109,6 +111,24 @@ To install: `mv logos/*.txt ~/.msf4/logos/`
 ![Wargames 2](https://raw.githubusercontent.com/bcoles/metasploit-logos/master/images/wargames-02.png)
 
 * Text from [Wargames (1983)](http://www.imdb.com/title/tt0086567/)
+
+---
+
+### wargames-03
+
+![Wargames 3](https://raw.githubusercontent.com/bcoles/metasploit-logos/master/images/wargames-03.png)
+
+* Based on text from [Wargames (1983)](http://www.imdb.com/title/tt0086567/)
+* [Original](https://www.youtube.com/watch?v=KXzNo0vR_dU)
+
+---
+
+### wargames-04
+
+![Wargames 4](https://raw.githubusercontent.com/bcoles/metasploit-logos/master/images/wargames-04.png)
+
+* Based on text from [Wargames (1983)](http://www.imdb.com/title/tt0086567/)
+* [Original](https://www.youtube.com/watch?v=KXzNo0vR_dU)
 
 ---
 
