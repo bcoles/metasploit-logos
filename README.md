@@ -7,7 +7,7 @@ To install: `mv logos/*.txt ~/.msf4/logos/`
 * [aperture-science-01](#aperture-science-01)
 * [aperture-science-02](#aperture-science-02)
 * [as400-01](#as400-01)
-* [computer-love](#computer-love)
+* [computer-love-01](#computer-love-01)
 * [doom-01](#doom-01)
 * [hack-the-planet-01](#hack-the-planet-01)
 * [hack-the-planet-02](#hack-the-planet-02)
@@ -50,9 +50,9 @@ To install: `mv logos/*.txt ~/.msf4/logos/`
 
 ---
 
-### computer-love
+### computer-love-01
 
-![Computer Love](https://raw.githubusercontent.com/bcoles/metasploit-logos/master/images/computer-love.png)
+![Computer Love 01](https://raw.githubusercontent.com/bcoles/metasploit-logos/master/images/computer-love-01.png)
 
 * [Original](http://www.ascii-code.com/ascii-art/computers/computers.php)
 * Original author unknown. Possibly jgs.
