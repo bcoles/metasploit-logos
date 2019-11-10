@@ -1,0 +1,21 @@
+%clr
+          %bld%whi           .-;+$XHHHHHHX$+;-.%clr
+          %bld%whi        ,;X@@X%/;=----=:/%X@@X/,%clr
+          %bld%whi      =$@@%=.              .=+H@X:%clr
+          %bld%whi    -XMX:                      =XMX=%clr
+          %bld%whi   /@@:                          =H@+%clr
+          %bld%whi  %@X,                            .$@$%clr
+          %bld%whi +@X.                               $@%%clr
+          %bld%whi-@@,                                .@@=%clr
+          %bld%whi%@%                                  +@$%clr
+          %bld%whiH@:                                  :@H%clr
+          %bld%whiH@:         :HHHHHHHHHHHHHHHHHHX,    =@H%clr
+          %bld%whi%@%         ;@M@@@@@@@@@@@@@@@@@H-   +@$%clr
+          %bld%whi=@@,        :@@@@@@@@@@@@@@@@@@@@@= .@@:%clr
+          %bld%whi +@X        :@@@@@@@@@@@@@@@M@@@@@@:%@%%clr
+          %bld%whi  $@$,      ;@@@@@@@@@@@@@@@@@M@@@@@@$.%clr
+          %bld%whi   +@@HHHHHHH@@@@@@@@@@@@@@@@@@@@@@@+%clr
+          %bld%whi    =X@@@@@@@@@@@@@@@@@@@@@@@@@@@@X=%clr
+          %bld%whi      :$@@@@@@@@@@@@@@@@@@@M@@@@$:%clr
+          %bld%whi        ,;$@@@@@@@@@@@@@@@@@@X/-%clr
+          %bld%whi           .-;+$XXHHHHHX$+;-.%clr

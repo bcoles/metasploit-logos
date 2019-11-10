@@ -7,6 +7,7 @@ To install: `mv logos/*.txt ~/.msf4/logos/`
 * [aperture-science-01](#aperture-science-01)
 * [aperture-science-02](#aperture-science-02)
 * [as400-01](#as400-01)
+* [black-mesa-01](#black-mesa-01)
 * [computer-love-01](#computer-love-01)
 * [doom-01](#doom-01)
 * [hack-the-planet-01](#hack-the-planet-01)
@@ -47,6 +48,15 @@ To install: `mv logos/*.txt ~/.msf4/logos/`
 ![AS400 01](https://raw.githubusercontent.com/bcoles/metasploit-logos/master/images/as400-01.png)
 
 * Text from [IBM AS/400 interface](https://i2.wp.com/as400i.com/wp-content/uploads/2013/03/main-menu.png)
+
+---
+
+### black-mesa-01
+
+![Black Mesa 01](https://raw.githubusercontent.com/bcoles/metasploit-logos/master/images/black-mesa-01.png)
+
+* [Original](https://blog.kazitor.com/2014/12/portal-ascii/)
+* Original author [Valve Software](http://valvesoftware.com/)
 
 ---
 
