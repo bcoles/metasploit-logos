@@ -9,6 +9,7 @@ To install: `mv logos/*.txt ~/.msf4/logos/`
 * [computer-love](#computer-love)
 * [hack-the-planet-01](#hack-the-planet-01)
 * [hack-the-planet-02](#hack-the-planet-02)
+* [sneakers-01](#sneakers-01)
 * [system-shock-01](#system-shock-01)
 * [system-shock-02](#system-shock-02)
 * [terminator-atm](#terminator-atm)
@@ -57,6 +58,15 @@ To install: `mv logos/*.txt ~/.msf4/logos/`
 ![Hack the Planet 2](https://raw.githubusercontent.com/bcoles/metasploit-logos/master/images/hack-the-planet-02.png)
 
 * [Original](https://www.youtube.com/watch?v=zqvcfWQzxYg)
+
+---
+
+### sneakers-01
+
+![Sneakers 01](https://raw.githubusercontent.com/bcoles/metasploit-logos/master/images/sneakers-01.png)
+
+* [Original](https://www.youtube.com/watch?v=GS3npSv8iuM#t=4m17s)
+* Text from [Sneakers (1992)](https://www.imdb.com/title/tt0105435/)
 
 ---
 
