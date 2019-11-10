@@ -7,6 +7,7 @@ To install: `mv logos/*.txt ~/.msf4/logos/`
 * [aperture-science-01](#aperture-science-01)
 * [aperture-science-02](#aperture-science-02)
 * [computer-love](#computer-love)
+* [doom-01](#doom-01)
 * [hack-the-planet-01](#hack-the-planet-01)
 * [hack-the-planet-02](#hack-the-planet-02)
 * [sneakers-01](#sneakers-01)
@@ -44,6 +45,15 @@ To install: `mv logos/*.txt ~/.msf4/logos/`
 
 * [Original](http://www.ascii-code.com/ascii-art/computers/computers.php)
 * Original author unknown. Possibly jgs.
+
+---
+
+### doom-01
+
+![Doom 01](https://raw.githubusercontent.com/bcoles/metasploit-logos/master/images/doom-01.png)
+
+* [Original](http://www.gamers.org/~fpv/doomlogo.html)
+* Original DooM logo ASCII art author F.P. de Vries.
 
 ---
 
