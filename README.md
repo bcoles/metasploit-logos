@@ -14,7 +14,9 @@ To install: `mv logos/*.txt ~/.msf4/logos/`
 * [sneakers-01](#sneakers-01)
 * [system-shock-01](#system-shock-01)
 * [system-shock-02](#system-shock-02)
+* [templeos-01](#templos-01)
 * [terminator-atm](#terminator-atm)
+* [terry-a-davis-01](#terry-a-davis-01)
 * [wargames-01](#wargames-01)
 * [wargames-02](#wargames-02)
 * [wargames-03](#wargames-03)
@@ -108,12 +110,28 @@ To install: `mv logos/*.txt ~/.msf4/logos/`
 
 ---
 
+### templeos-01
+
+![TempleOS 01](https://raw.githubusercontent.com/bcoles/metasploit-logos/master/images/templeos-01.png)
+
+* [Original](https://templeos.org/Templeos-header.png)
+
+---
+
 ### terminator-atm
 
 ![Terminator ATM](https://raw.githubusercontent.com/bcoles/metasploit-logos/master/images/terminator-atm.png)
 
 * [Original](https://www.youtube.com/embed/3cfQKxUffqA?autoplay=1&auto_play=true)
 * Text from [Terminator 2 (1991)](http://www.imdb.com/title/tt0103064/)
+
+---
+
+### terry-a-davis-01
+
+![Terry A. Davis 01](https://raw.githubusercontent.com/bcoles/metasploit-logos/master/images/terry-a-davis-01.png)
+
+* Text from Terry A. Davis
 
 ---
 
