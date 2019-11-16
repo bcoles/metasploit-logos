@@ -12,6 +12,7 @@ To install: `mv logos/*.txt ~/.msf4/logos/`
 * [doom-01](#doom-01)
 * [hack-the-planet-01](#hack-the-planet-01)
 * [hack-the-planet-02](#hack-the-planet-02)
+* [rainbow-frog-01](#rainbow-frog-01)
 * [sneakers-01](#sneakers-01)
 * [system-shock-01](#system-shock-01)
 * [system-shock-02](#system-shock-02)
@@ -73,8 +74,8 @@ To install: `mv logos/*.txt ~/.msf4/logos/`
 
 ![Doom 01](https://raw.githubusercontent.com/bcoles/metasploit-logos/master/images/doom-01.png)
 
-* [Original](http://www.gamers.org/~fpv/doomlogo.html)
-* Original DooM logo ASCII art author F.P. de Vries.
+* Colorised DooM logo.
+* [Original](http://www.gamers.org/~fpv/doomlogo.html) DooM logo ASCII art by F.P. de Vries.
 
 ---
 
@@ -91,6 +92,15 @@ To install: `mv logos/*.txt ~/.msf4/logos/`
 ![Hack the Planet 2](https://raw.githubusercontent.com/bcoles/metasploit-logos/master/images/hack-the-planet-02.png)
 
 * [Original](https://www.youtube.com/watch?v=zqvcfWQzxYg)
+
+---
+
+### rainbow-frog-01
+
+![Rainbow Frog 01](https://raw.githubusercontent.com/bcoles/metasploit-logos/master/images/rainbow-frog-01.png)
+
+* Colorised and modified frog with rainbow background.
+* [Original](https://www.oocities.org/spunk1111/reptiles.htm) frog ASCII art by jgs.
 
 ---
 
