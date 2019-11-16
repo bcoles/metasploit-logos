@@ -1,0 +1,24 @@
+ %clr%bld%whiCOMMAND ===>%clr %bld%red............%clr                                     %bld%whiSCROLL ===>%clr %bld%redFULL%clr
+ %bld%whi*%clr %bld%cyaCompiled:%clr %bld%whi13.42.52%clr  %bld%cyahrs. on%clr  %bld%whi07/28/89..%clr %bld%cyaLink-Edited on:%clr %bld%whi28JUL 89%clr  %bld%cya(00002K   )%clr
+ %yel000132  001110     PERFORM CLEAR-RECORD-ITEMS.%clr
+ %yel000133  001120     PERFORM GET-NEXT-SCREEN-DATA.%clr
+ %yel000134  001130%clr
+ %bld%yel=PAUS=  001200 MAIN-PROC SECTION.%clr
+ %yel000136  001210 TOTAL-PAY-CALC.%clr
+ %yel000137  001220     MULTIPLY TS-BASICRATE BY TS-TOTALHOURS GIVING INT-BASICPAY%clr
+ %yel000138  001230                                                        ROUNDED.%clr
+ %bld%red000139  001240     MULTIPLY TS-BASICRATE BY TS-TOTALHOURS GIVING INT-BONUSP<<<<%clr
+ %bld%whi--%clr %bld%yelASSOC.DATA%clr %whi-----------------------------------------------------------------%clr
+ %yel000017  000500 77  INT-BONUSPAY PIC 9(3)V2(2).%clr           %bld%whix==>%clr %bld%red0000000000%clr
+ %yel000028  000655     02  TS-BONUSRATE    PIC 9(2)V9(4).%clr    %bld%whi===>%clr %bld%red011250+%clr
+ %yel000033  000680     02  TS-TOTALHOURS   PIC 9(2)V9(2).%clr    %bld%whi===>%clr %bld%red3950+%clr
+ %bld%whi-------------------------------------------------------------------------------%clr
+ %yel000140  001250                                                        ROUNDED.%clr
+ %yel000141  001260     ADD INT-BASICPAY INT-BONUSPAY GIVING TS-TOTALPAY ROUNDED.%clr
+ %yel000142  001270     IF TS-TOTALPAY > TOTALPAY-LIMIT%clr
+ %bld%whi--%clr %bld%yelCURRENT STATUS%clr %bld%whi------------------------------------------------ %bld%cyaAmode:%clr %bld%whi24%clr %bld%whi--%clr
+ %bld%whi| %bld%cyaReason for Halt:%clr %bld%redSINGLE CYCLE HALT%clr                %bld%cyain PHASE%clr   %bld%redMSF-INIT%clr       %bld%whi|%clr
+ %bld%whi| %bld%cyawithin module%clr    %bld%whiMETASPLOIT%clr %bld%cyaat Offset  001337   (Stmt number%clr %bld%whi00139%clr    %bld%cya)%clr     %bld%whi|%clr
+ %bld%whi| %bld%cyaStatement is:%clr    %bld%whi00139 001240      MULTIPLY TS-BONUSRATE BY TS-TOTALHOURS 6 %bld%whi|%clr
+ %bld%whi-------------------------------------------------------------------------------%clr
+                                                                  %bgblu%bld%whi PRESS PF6 %clr  %clr

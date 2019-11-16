@@ -9,6 +9,7 @@ To install: `mv logos/*.txt ~/.msf4/logos/`
 * [as400-01](#as400-01)
 * [black-mesa-01](#black-mesa-01)
 * [chappie-01](#chappie-01)
+* [cics-01](#cics-01)
 * [computer-love-01](#computer-love-01)
 * [doom-01](#doom-01)
 * [hack-the-planet-01](#hack-the-planet-01)
@@ -68,6 +69,14 @@ To install: `mv logos/*.txt ~/.msf4/logos/`
 
 * [Original](https://www.youtube.com/watch?v=YljCsYmhUIE#t=29s)
 * Text from [Chappie (2015)](https://www.imdb.com/title/tt1823672/)
+
+---
+
+### cics-01
+
+![CICS 01](https://raw.githubusercontent.com/bcoles/metasploit-logos/master/images/cics-01.png)
+
+* Text from [CICS interface](https://www.quora.com/What-full-screen-interactive-debuggers-were-available-to-work-with-COBOL-in-the-1970s-1980s-and-1990s-at-source-level)
 
 ---
 
