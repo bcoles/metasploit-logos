@@ -8,6 +8,7 @@ To install: `mv logos/*.txt ~/.msf4/logos/`
 * [aperture-science-02](#aperture-science-02)
 * [as400-01](#as400-01)
 * [black-mesa-01](#black-mesa-01)
+* [chappie-01](#chappie-01)
 * [computer-love-01](#computer-love-01)
 * [doom-01](#doom-01)
 * [hack-the-planet-01](#hack-the-planet-01)
@@ -58,6 +59,15 @@ To install: `mv logos/*.txt ~/.msf4/logos/`
 
 * [Original](https://blog.kazitor.com/2014/12/portal-ascii/)
 * Original author [Valve Software](http://valvesoftware.com/)
+
+---
+
+### chappie-01
+
+![Chappie 01](https://raw.githubusercontent.com/bcoles/metasploit-logos/master/images/chappie-01.png)
+
+* [Original](https://www.youtube.com/watch?v=YljCsYmhUIE#t=29s)
+* Text from [Chappie (2015)](https://www.imdb.com/title/tt1823672/)
 
 ---
 
