@@ -1,0 +1,17 @@
+%clr %whi[                              %whiB8  42  4E  D9  29  2C    ]%clr
+ %whi[                              %whi4F  08  63  3C  E6  F6    ]%clr
+ %whi[                              %whi3D  %clr%bgbluT4%clr%whi  43  42  C2  3D    ]%clr
+ %whi[                              %whi22  93  96  %clr%bgbluL0%clr%whi  C8  FB    ]%clr
+ %whi[                              %whi62  A6  3F  C3  03  E7    ]%clr
+ %whi[                              %whi00  10  1D  CC  6C  21    ]%clr
+%bld%whi...............................%clr %blk%bgwhiGR  AN  BO  RO  UG  H-%clr    %whiV%clr
+ %whi[                              %whiC6  4C  1A  1E  8A  83    ]%clr
+ %whi[                              %whiFF  F3  00  E2  62  55    ]%clr
+ %whi[                              %whiFB  56  55  3E  F7  39    ]%clr
+ %whi[                              %whiF1  45  D7  64  C3  D3    ]%clr
+ %whi[                              %whiE7  80  %clr%bgblu5P%clr%whi  FF  E3  BA    ]%clr
+ %whi[                              %whi45  32  52  F0  %clr%bgblu1T%clr%whi  40    ]%clr
+ %whi[                              %whiD3  D5  95  A6  F8  C0    ]%clr
+ %whi[                              %whi%clr%bgbluM3%clr%whi  34  F8  A5  34  C7    ]%clr
+ %whi[                              %whiDC  F9  18  ED  CC  0F    ]%clr
+ %whi[                              %whiBB  F5  11  FF  30  31    ]%clr

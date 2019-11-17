@@ -132,6 +132,15 @@ To install: `mv logos/*.txt ~/.msf4/logos/`
 
 ---
 
+### skyfall-01
+
+![Skyfall 01](https://raw.githubusercontent.com/bcoles/metasploit-logos/master/images/skyfall-01.png)
+
+* [Original](https://www.youtube.com/watch?v=aApTVqeGJMw#t=14s)
+* Text from [Skyfall (2012)](https://www.imdb.com/title/tt1074638/)
+
+---
+
 ### system-shock-01
 
 ![System Shock 1](https://raw.githubusercontent.com/bcoles/metasploit-logos/master/images/system-shock-01.png)
