@@ -2,7 +2,7 @@
 
 Custom Metasploit logos.
 
-To install: `mv logos/*.txt ~/.msf4/logos/`
+To install, run `./install` or  `mv logos/*.txt ~/.msf4/logos/`.
 
 * [aperture-science-01](#aperture-science-01)
 * [aperture-science-02](#aperture-science-02)
@@ -15,6 +15,7 @@ To install: `mv logos/*.txt ~/.msf4/logos/`
 * [hack-the-planet-01](#hack-the-planet-01)
 * [hack-the-planet-02](#hack-the-planet-02)
 * [rainbow-frog-01](#rainbow-frog-01)
+* [skyfall-01](#skyfall-01)
 * [sneakers-01](#sneakers-01)
 * [system-shock-01](#system-shock-01)
 * [system-shock-02](#system-shock-02)

@@ -1,0 +1,4 @@
+#!/bin/bash
+basedir=$(dirname "$0")
+mv -i $basedir/logos/*.txt ~/.msf4/logos/
+
