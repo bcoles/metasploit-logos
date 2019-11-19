@@ -22,6 +22,7 @@ To install, run `./install` or  `mv logos/*.txt ~/.msf4/logos/`.
 * [templeos-01](#templos-01)
 * [terminator-atm](#terminator-atm)
 * [terry-a-davis-01](#terry-a-davis-01)
+* [the-matrix-01](#the-matrix-01)
 * [wargames-01](#wargames-01)
 * [wargames-02](#wargames-02)
 * [wargames-03](#wargames-03)
@@ -181,6 +182,15 @@ To install, run `./install` or  `mv logos/*.txt ~/.msf4/logos/`.
 ![Terry A. Davis 01](https://raw.githubusercontent.com/bcoles/metasploit-logos/master/images/terry-a-davis-01.png)
 
 * Text from Terry A. Davis
+
+---
+
+### the-matrix-01
+
+![The Matrix 01](https://raw.githubusercontent.com/bcoles/metasploit-logos/master/images/the-matrix-01.png)
+
+* [Original](https://www.youtube.com/watch?v=0PxTAn4g20U)
+* Text from [The Matrix (1999)](https://www.imdb.com/title/tt0133093/)
 
 ---
 
