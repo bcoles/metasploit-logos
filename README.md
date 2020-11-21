@@ -11,6 +11,8 @@ To install, run `./install` or  `mv logos/*.txt ~/.msf4/logos/`.
 * [chappie-01](#chappie-01)
 * [cics-01](#cics-01)
 * [computer-love-01](#computer-love-01)
+* [demon-roach-underground-01](#demon-roach-underground-01)
+* [demon-roach-underground-02](#demon-roach-underground-02)
 * [doom-01](#doom-01)
 * [hack-the-planet-01](#hack-the-planet-01)
 * [hack-the-planet-02](#hack-the-planet-02)
@@ -88,6 +90,22 @@ To install, run `./install` or  `mv logos/*.txt ~/.msf4/logos/`.
 
 * [Original](http://www.ascii-code.com/ascii-art/computers/computers.php)
 * Original author unknown. Possibly jgs.
+
+---
+
+### demon-roach-underground-01
+
+![Demon Roach Underground 01](https://raw.githubusercontent.com/bcoles/metasploit-logos/master/images/demon-roach-underground-01.png)
+
+* [Original](https://en.wikipedia.org/wiki/Demon_Roach_Underground)
+
+---
+
+### demon-roach-underground-02
+
+![Demon Roach Underground 02](https://raw.githubusercontent.com/bcoles/metasploit-logos/master/images/demon-roach-underground-02.png)
+
+* [Original](https://en.wikipedia.org/wiki/Demon_Roach_Underground)
 
 ---
 
