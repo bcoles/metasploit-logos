@@ -2,7 +2,22 @@
 
 Custom Metasploit logos.
 
+# Install
+
 To install, run `./install` or  `mv logos/*.txt ~/.msf4/logos/`.
+
+# Acknowledgements
+
+The vast majority of these logos are based upon the work of others and often reproduced unaltered in their entirety.
+
+In some instances, image to ASCII art conversion software such as was used to convert source images.
+
+Some art (such as that which originated from movies and TV shows) was manually recreated from captured frames.
+
+The Preview section of this [README](https://github.com/bcoles/metasploit-logos/blob/master/README.md) provides details regarding the original source material, including author attribution (where possible).
+
+
+# Preview
 
 * [aperture-science-01](#aperture-science-01)
 * [aperture-science-02](#aperture-science-02)
