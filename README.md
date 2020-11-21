@@ -10,7 +10,7 @@ To install, run `./install` or  `mv logos/*.txt ~/.msf4/logos/`.
 
 The vast majority of these logos are based upon the work of others and often reproduced unaltered in their entirety.
 
-In some instances, image to ASCII art conversion software such as was used to convert source images.
+In some instances, image to ASCII art conversion software was used to convert source images.
 
 Some art (such as that which originated from movies and TV shows) was manually recreated from captured frames.
 
@@ -29,6 +29,7 @@ The Preview section of this [README](https://github.com/bcoles/metasploit-logos/
 * [demon-roach-underground-01](#demon-roach-underground-01)
 * [demon-roach-underground-02](#demon-roach-underground-02)
 * [doom-01](#doom-01)
+* [fidonet-01](#fidonet-01)
 * [hack-the-planet-01](#hack-the-planet-01)
 * [hack-the-planet-02](#hack-the-planet-02)
 * [rainbow-frog-01](#rainbow-frog-01)
@@ -130,6 +131,15 @@ The Preview section of this [README](https://github.com/bcoles/metasploit-logos/
 
 * Colorised DooM logo.
 * [Original](http://www.gamers.org/~fpv/doomlogo.html) DooM logo ASCII art by F.P. de Vries.
+
+---
+
+### fidonet-01
+
+![FidoNet 01](https://raw.githubusercontent.com/bcoles/metasploit-logos/master/images/fidonet-01.png)
+
+* [Original](https://en.wikipedia.org/wiki/FidoNet) FidoNet logo by John Madil
+* Border layout from [FidoNews](https://www.goto10.fr/fidonews/1984/fido101.nws) newsletter by Tom Jennings
 
 ---
 
