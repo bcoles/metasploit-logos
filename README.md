@@ -32,6 +32,8 @@ The Preview section of this [README](https://github.com/bcoles/metasploit-logos/
 * [fidonet-01](#fidonet-01)
 * [hack-the-planet-01](#hack-the-planet-01)
 * [hack-the-planet-02](#hack-the-planet-02)
+* [lain-01](#lain-01)
+* [lain-02](#lain-02)
 * [rainbow-frog-01](#rainbow-frog-01)
 * [skyfall-01](#skyfall-01)
 * [sneakers-01](#sneakers-01)
@@ -156,6 +158,23 @@ The Preview section of this [README](https://github.com/bcoles/metasploit-logos/
 ![Hack the Planet 2](https://raw.githubusercontent.com/bcoles/metasploit-logos/master/images/hack-the-planet-02.png)
 
 * [Original](https://www.youtube.com/watch?v=zqvcfWQzxYg)
+
+---
+
+### lain-01
+
+![Lain 01](https://raw.githubusercontent.com/bcoles/metasploit-logos/master/images/lain-01.png)
+
+* Text from [Serial Experiments Lain (1998)](https://www.imdb.com/title/tt0500092/)
+
+---
+
+### lain-02
+
+![Lain 02](https://raw.githubusercontent.com/bcoles/metasploit-logos/master/images/lain-02.png)
+
+* [Original](https://www.youtube.com/watch?v=WgWWWu4MvcE)
+* Logo from [Serial Experiments Lain (1998)](https://www.imdb.com/title/tt0500092/)
 
 ---
 
