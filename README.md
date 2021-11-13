@@ -43,6 +43,7 @@ The Preview section of this [README](https://github.com/bcoles/metasploit-logos/
 * [terminator-atm](#terminator-atm)
 * [terry-a-davis-01](#terry-a-davis-01)
 * [the-matrix-01](#the-matrix-01)
+* [the-spy-who-shrunk-me-01](#the-spy-who-shrunk-me-01)
 * [wargames-01](#wargames-01)
 * [wargames-02](#wargames-02)
 * [wargames-03](#wargames-03)
@@ -253,6 +254,15 @@ The Preview section of this [README](https://github.com/bcoles/metasploit-logos/
 
 * [Original](https://www.youtube.com/watch?v=0PxTAn4g20U)
 * Text from [The Matrix (1999)](https://www.imdb.com/title/tt0133093/)
+
+---
+
+### the-spy-who-shrunk-me-01
+
+![The Spy Who Shrunk Me 01](https://raw.githubusercontent.com/bcoles/metasploit-logos/master/images/the-spy-who-shrunk-me-01.png)
+
+* [Original](https://twitter.com/TomiToikka/status/1261716164855631872)
+* Text from [The Spy Who Shrunk Me (2019)](https://store.steampowered.com/app/754850/The_Spy_Who_Shrunk_Me/)
 
 ---
 
